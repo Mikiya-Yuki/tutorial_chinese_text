@@ -1,2 +1,5 @@
 # tutorial_chinese_text
-test
+
+code01: .py
+code02: .r
+sample data: .txt
